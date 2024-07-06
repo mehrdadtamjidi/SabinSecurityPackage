@@ -1,0 +1,12 @@
+D:\Project\SabinSecurityPackage\SecurityPackage\bin\Debug\net6.0\SecurityPackage.deps.json
+D:\Project\SabinSecurityPackage\SecurityPackage\bin\Debug\net6.0\SecurityPackage.dll
+D:\Project\SabinSecurityPackage\SecurityPackage\bin\Debug\net6.0\SecurityPackage.pdb
+D:\Project\SabinSecurityPackage\SecurityPackage\obj\Debug\net6.0\SecurityPackage.csproj.AssemblyReference.cache
+D:\Project\SabinSecurityPackage\SecurityPackage\obj\Debug\net6.0\SecurityPackage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\SabinSecurityPackage\SecurityPackage\obj\Debug\net6.0\SecurityPackage.AssemblyInfoInputs.cache
+D:\Project\SabinSecurityPackage\SecurityPackage\obj\Debug\net6.0\SecurityPackage.AssemblyInfo.cs
+D:\Project\SabinSecurityPackage\SecurityPackage\obj\Debug\net6.0\SecurityPackage.csproj.CoreCompileInputs.cache
+D:\Project\SabinSecurityPackage\SecurityPackage\obj\Debug\net6.0\SecurityPackage.dll
+D:\Project\SabinSecurityPackage\SecurityPackage\obj\Debug\net6.0\refint\SecurityPackage.dll
+D:\Project\SabinSecurityPackage\SecurityPackage\obj\Debug\net6.0\SecurityPackage.pdb
+D:\Project\SabinSecurityPackage\SecurityPackage\obj\Debug\net6.0\ref\SecurityPackage.dll

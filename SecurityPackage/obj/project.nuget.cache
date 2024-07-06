@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/V/ZoZ4GPhos6KFtGxgO2+tPlMICMUAEh/QWN2iPEsz9Uwd0hWACpOuXkXWvHWZFEwnzWp9vIgyB29ECkLF/sA==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\SabinSecurityPackage\\SecurityPackage\\SecurityPackage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.tamjidi\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
